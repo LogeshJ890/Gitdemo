@@ -1,0 +1,26 @@
+Git >> version control
+
+    v1
+    v2
+    v3
+new v4
+
+>> It is distributed (on cloud)
+>> collabration
+>> Tracking changes
+>> Recovery 
+
+
+>>For 1st time need to configure github in our system
+git config --global user.name "LogeshJ890"
+git config --global user.email "logeshj8982@gmail.com"
+
+git config --global color.ui auto
+
+Mandatory commends
+>> git init
+>> git remote add origin https://github.com/LogeshJ890/Gitdemo.git
+
+>>git pull origin main
+>>git status
+>>git add . (it means all or we can write spesifc file name in the place of .)
