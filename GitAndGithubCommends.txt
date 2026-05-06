@@ -24,3 +24,9 @@ Mandatory commends
 >>git pull origin main
 >>git status
 >>git add . (it means all or we can write spesifc file name in the place of .)
+>>git status
+>>git commit -m "Commit Message"
+>>git push
+
+To create new branch 
+>> git checkout -b "day1branch(name)"
